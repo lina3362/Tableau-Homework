@@ -37,73 +37,73 @@ This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processe
 </tr>
 </thead>
 <tr>
-<td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/JC-201701-citibike-tripdata.csv.zip">JC-201701-citibike-tripdata.csv.zip</a></td>
+<td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/JC-201901-citibike-tripdata.csv.zip">JC-201901-citibike-tripdata.csv.zip</a></td>
 <td>Apr 6th 2017, 02:01:43 pm</td>
 <td>255 KB</td>
 <td>ZIP file</td>
 </tr>
 <tr>
-<td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/JC-201702-citibike-tripdata.csv.zip">JC-201702-citibike-tripdata.csv.zip</a></td>
+<td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/JC-201902-citibike-tripdata.csv.zip">JC-201902-citibike-tripdata.csv.zip</a></td>
 <td>Apr 6th 2017, 02:01:44 pm</td>
 <td>275 KB</td>
 <td>ZIP file</td>
 </tr>
 <tr>
-<td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/JC-201703-citibike-tripdata.csv.zip">JC-201703-citibike-tripdata.csv.zip</a></td>
+<td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/JC-201903-citibike-tripdata.csv.zip">JC-201903-citibike-tripdata.csv.zip</a></td>
 <td>Apr 6th 2017, 02:01:44 pm</td>
 <td>241 KB</td>
 <td>ZIP file</td>
 </tr>
 <tr>
-<td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/JC-201704-citibike-tripdata.csv.zip">JC-201704-citibike-tripdata.csv.zip</a></td>
+<td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/JC-201904-citibike-tripdata.csv.zip">JC-201904-citibike-tripdata.csv.zip</a></td>
 <td>Aug 1st 2017, 09:20:54 am</td>
 <td>432 KB</td>
 <td>ZIP file</td>
 </tr>
 <tr>
-<td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/JC-201705-citibike-tripdata.csv.zip">JC-201705-citibike-tripdata.csv.zip</a></td>
+<td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/JC-201905-citibike-tripdata.csv.zip">JC-201905-citibike-tripdata.csv.zip</a></td>
 <td>Aug 1st 2017, 09:20:55 am</td>
 <td>529 KB</td>
 <td>ZIP file</td>
 </tr>
 <tr>
-<td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/JC-201706-citibike-tripdata.csv.zip">JC-201706-citibike-tripdata.csv.zip</a></td>
+<td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/JC-201906-citibike-tripdata.csv.zip">JC-201906-citibike-tripdata.csv.zip</a></td>
 <td>Aug 1st 2017, 09:20:56 am</td>
 <td>647 KB</td>
 <td>ZIP file</td>
 </tr>
 <tr>
-<td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/JC-201707-citibike-tripdata.csv.zip">JC-201707-citibike-tripdata.csv.zip</a></td>
+<td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/JC-201907-citibike-tripdata.csv.zip">JC-201907-citibike-tripdata.csv.zip</a></td>
 <td>Aug 1st 2017, 09:20:57 am</td>
 <td>676 KB</td>
 <td>ZIP file</td>
 </tr>
 <tr>
-<td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/JC-201708%20citibike-tripdata.csv.zip">JC-201708 citibike-tripdata.csv.zip</a></td>
+<td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/JC-201908%20citibike-tripdata.csv.zip">JC-201908 citibike-tripdata.csv.zip</a></td>
 <td>Oct 3rd 2017, 08:52:49 am</td>
 <td>711 KB</td>
 <td>ZIP file</td>
 </tr>
 <tr>
-<td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/JC-201709-citibike-tripdata.csv.zip">JC-201709-citibike-tripdata.csv.zip</a></td>
+<td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/JC-201909-citibike-tripdata.csv.zip">JC-201909-citibike-tripdata.csv.zip</a></td>
 <td>Oct 3rd 2017, 08:52:49 am</td>
 <td>667 KB</td>
 <td>ZIP file</td>
 </tr>
 <tr>
-<td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/JC-201710-citibike-tripdata.csv.zip">JC-201710-citibike-tripdata.csv.zip</a></td>
+<td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/JC-201910-citibike-tripdata.csv.zip">JC-201910-citibike-tripdata.csv.zip</a></td>
 <td>Jan 31st 2018, 01:15:18 pm</td>
 <td>703 KB</td>
 <td>ZIP file</td>
 </tr>
 <tr>
-<td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/JC-201711-citibike-tripdata.csv.zip">JC-201711-citibike-tripdata.csv.zip</a></td>
+<td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/JC-201911-citibike-tripdata.csv.zip">JC-201911-citibike-tripdata.csv.zip</a></td>
 <td>Jan 31st 2018, 01:15:19 pm</td>
 <td>477 KB</td>
 <td>ZIP file</td>
 </tr>
 <tr>
-<td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/JC-201712-citibike-tripdata.csv.zip">JC-201712-citibike-tripdata.csv.zip</a></td>
+<td>&nbsp;<a href="https://s3.amazonaws.com/tripdata/JC-201912-citibike-tripdata.csv.zip">JC-201912-citibike-tripdata.csv.zip</a></td>
 <td>Jan 31st 2018, 01:15:19 pm</td>
 <td>324 KB</td>
 <td>ZIP file</td>
