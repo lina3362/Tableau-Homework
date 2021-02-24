@@ -14,9 +14,9 @@ A analysis for the New York Citi Bike Program, in which responsible for overseei
  
 * Click [here](https://public.tableau.com/profile/lina.ma3495#!/) to view complted dashboard
 
-![alt text](https://raw.githubusercontent.com/lina3362/Tableau-Homework/blob/main/Dashboards/Dashboard-Trips_Compare.png)
+![alt text](https://raw.githubusercontent.com/lina3362/Tableau-Homework/blob/main/Dashboards/Dashboard-Trips Compare.png)
 
-![alt text](https://raw.githubusercontent.com/lina3362/Tableau-Homework/blob/main/Dashboards/Dashboard-Summer_Winter_Peak_Hours_Compare.png)
+![alt text](https://raw.githubusercontent.com/lina3362/Tableau-Homework/blob/main/Dashboards/Dashboard- Summer & Winter Peak Hours Compare.png)
 
 ![alt text](https://raw.githubusercontent.com/lina3362/Tableau-Homework/blob/main/Dashboards/Dashboard-Map.png)
 
