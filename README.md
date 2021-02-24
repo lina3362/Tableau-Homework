@@ -14,11 +14,11 @@ A analysis for the New York Citi Bike Program, in which responsible for overseei
  
 * Click [here](https://public.tableau.com/profile/lina.ma3495#!/) to view complted dashboard
 
-![alt text](https://raw.githubusercontent.com/lina3362/Tableau-Homework/blob/main/Dashboards/Dashboard-Trips%20Compare.png)
+![alt text](https://raw.githubusercontent.com/lina3362/Tableau-Homework/blob/main/Dashboards/Dashboard-Trips_Compare.png)
 
-![alt text](https://raw.githubusercontent.com/lina3362/Tableau-Homework/blob/main/Dashboards/Dashboard-%20Summer%20%26%20Winter%20Peak%20Hours%20Compare.png)
+![alt text](https://raw.githubusercontent.com/lina3362/Tableau-Homework/blob/main/Dashboards/Dashboard-Summer_Winter_Peak_Hours_Compare.png)
 
-![alt text](https://raw.githubusercontent.com/lina3362/Tableau-Homework/blob/main/Dashboards/Dashboard%20-Map.png)
+![alt text](https://raw.githubusercontent.com/lina3362/Tableau-Homework/blob/main/Dashboards/Dashboard-Map.png)
 
 ## Data Source
 ![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/citibikedata.png)
