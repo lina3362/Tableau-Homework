@@ -10,7 +10,7 @@
 </p>
 
 A analysis for the New York Citi Bike Program, in which responsible for overseeing the largest bike sharing program for 200,000+ data points in the United States
- in order to generate business insights in terms of visulize the peak time in both summer and winter period and the top start location in New York City and Jersey City, New Jersey
+ in order to generate business insights in terms of visulize the peak time in both summer and winter period and the top start location in New York City and Jersey City, New Jersey. I was interested to find out how COVID impacted Citi Bike via this project, so I selected 2019 and 2020 data, compared 2019 vs 2020 from total riders, gender distribution, tripduration, etc. aspects.
  
 * Click [here](https://public.tableau.com/profile/lina.ma3495#!/) to view complted dashboard
 
@@ -136,10 +136,7 @@ This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processe
 </table>
 
 * Limitation
-There were 7% user did not provide gender information and most of them (14%) are weekend users so we will not be able to tell if female are more willing to ride
-on the weekend then they do on weekdays, but we may still determine that male user are the dominant customer at all time
-
-![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/limitation.png)
+There were 7% user did not provide gender information in 2019 and 15% did not provide in 2020. Some users seem like did not provide true age info as we show there are riders were over 100 years old. 
 
 
 ## Findings 
@@ -147,26 +144,19 @@ on the weekend then they do on weekdays, but we may still determine that male us
 
 ### (1) The current major citi bike riders fall into young male group between 18 -20 but number of femal reiders increases over time as they are showing interest to start riding during the weekend
 
-![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/customer_base.png) ![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/femal_ridership.png)
 
 ### (2) The 1st and 2nd peak hours during a day would usually be 7-8 AM and 5-6 PM season-regardless 
 
-![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/peakhours.png)
 
 ### (3) As the temperature gets cold as winter begins, people tend not to ride as well because of the lack of comfort individuals face when riding in low temperatures. Therefore, at some point the ridership does not grow. However, the total amount of annual member have been kept increased over time in 2017
 
-![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/2017_growth.png)
 
 ## Map visualization for city officials
 
-* More and more people choose to live in Jersey City and work in Manhathan
-
-![alt text](https://raw.githubusercontent.com/david880110/Citi-Bike-Analytics/master/image/popular_location.png)
-
 ## Technology Used
 
-<img src="https://raw.githubusercontent.com/david880110/tech-logo/master/python%20logo.png" width="240" height="50"/>
+![alt text](https://www.python.org/static/community_logos/python-logo.png)
 
-<img src="https://raw.githubusercontent.com/david880110/tech-logo/master/tableau%20logo.png" width="240" height="60"/>
+![alt text](https://www.logolynx.com/images/logolynx/86/86dfff918dccc0548f58632d5d615f35.jpeg)
 
 
