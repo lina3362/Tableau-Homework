@@ -142,16 +142,22 @@ There were 7% user did not provide gender information in 2019 and 15% did not pr
 ## Findings 
 
 
-### (1) The current major citi bike riders fall into young male group between 18 -20 but number of femal reiders increases over time as they are showing interest to start riding during the weekend
+### (1) Total trips in 2020 is roughly 70,000 lower than the total trips in 2019 due to COVID. September is the busiest month in 2019, totaling 49,244. But in 2020, October was the busiest month, totaling only 26,149.
 
+### (2) 2019 Weekday trips, Tuesday had the highest trips (64,857). In 2020, Saturday had the highest rides (57,061). A lot of people were ordered working from home during COVID which may caused this differences. 
 
-### (2) The 1st and 2nd peak hours during a day would usually be 7-8 AM and 5-6 PM season-regardless 
+### (3) NY Citi Bike programs had more subscribers in 2019 (362,921 in 2019 vs 231,531 in 2020), and more customers who buy short-term passes in 2020 (105,271 in 2020 vs 43,026), might be the same reason as above.
 
+### (4) Summer peak hour in 2019 is 8am and 6pm, summer peak hour in 2020 is 6pm and 7pm. Winter peak hour in 2019 is 8am and 6pm, winter peak hour in 2020 is 5pm and 6pm.
 
-### (3) As the temperature gets cold as winter begins, people tend not to ride as well because of the lack of comfort individuals face when riding in low temperatures. Therefore, at some point the ridership does not grow. However, the total amount of annual member have been kept increased over time in 2017
+### (5) Popular start locations in 2019 and 2020 are in the same spots.
 
+### (6) Based on the bike ids, 2020 added more new bikes in the city.
 
-## Map visualization for city officials
+### (7) More people did not enter their gender info in 2020.
+
+### (8) There may be false age information both in 2019 and 2020, according to the data, some of the trips were rider by people over 100 years old. 
+
 
 ## Technology Used
 
