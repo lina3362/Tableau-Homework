@@ -157,6 +157,6 @@ There were 7% user did not provide gender information in 2019 and 15% did not pr
 
 ![alt text](https://www.python.org/static/community_logos/python-logo.png)
 
-![alt text](https://www.logolynx.com/images/logolynx/a4/a4db464751331060d01351049f7017d3.png)
+![alt text](https://linksinternational.com/wp-content/uploads/2020/09/Tableau-Logo-300x200.png)
 
 
