@@ -46,7 +46,7 @@ This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processe
 <thead>
 <tr>
 <th>Name</th>
-<th>Date Modified</th>
+<th>File Type</th>
 </tr>
 </thead>
 <tr>
