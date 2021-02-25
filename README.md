@@ -146,17 +146,17 @@ There were 7% user did not provide gender information in 2019 and 15% did not pr
 
 ### (2) 2019 Weekday trips, Tuesday had the highest trips (64,857). In 2020, Saturday had the highest rides (57,061). A lot of people were ordered working from home during COVID which may caused this differences. 
 
-### (3) NY Citi Bike programs had more subscribers in 2019 (362,921 in 2019 vs 231,531 in 2020), and more customers who buy short-term passes in 2020 (105,271 in 2020 vs 43,026), might be the same reason as above.
+### (3) NY Citi Bike programs had more subscribers in 2019 (362,921 in 2019 vs 231,531 in 2020), and more customers buy short-term passes in 2020 (105,271 in 2020 vs 43,026), might be the same reason as above.
 
 ### (4) Summer peak hour in 2019 is 8am and 6pm, summer peak hour in 2020 is 6pm and 7pm. Winter peak hour in 2019 is 8am and 6pm, winter peak hour in 2020 is 5pm and 6pm.
 
-### (5) Popular start locations in 2019 and 2020 are in the same spots.
+### (5) Popular start locations in 2019 and 2020 are in the same/similar spots.
 
-### (6) Based on the bike ids, 2020 added more new bikes in the city.
+### (6) Based on the bike ids, 2020 added new bikes in the city.
 
 ### (7) More people did not enter their gender info in 2020.
 
-### (8) There may be false age information both in 2019 and 2020, according to the data, some of the trips were rider by people over 100 years old. 
+### (8) There may be false age information both in 2019 and 2020, according to the graghs, some of the trips were rider by people over 100 years old. 
 
 
 ## Technology Used
