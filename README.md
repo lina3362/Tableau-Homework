@@ -152,7 +152,7 @@ This [Citi Bike Data](https://www.citibikenyc.com/system-data) has been processe
 There were 7% user did not provide gender information in 2019 and 15% did not provide in 2020. Some users seem like did not provide true age info as we show there are riders were over 100 years old. 
 
 
-### Findings 
+## Findings 
 
 
 (1) Total trips in 2020 is roughly 70,000 lower than the total trips in 2019 due to COVID. September is the busiest month in 2019, totaling 49,244. But in 2020, October was the busiest month, totaling only 26,149.
